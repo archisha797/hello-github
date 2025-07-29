@@ -1,6 +1,6 @@
 # hello-github
 Just getting started with GitHub
-#This is my first public repository — a space to start learning version control and get comfortable using GitHub.
+##This is my first public repository — a space to start learning version control and get comfortable using GitHub.
 
 ## 📌 What’s here:
 - Basic C programs (hello world, loops, functions, etc.)
